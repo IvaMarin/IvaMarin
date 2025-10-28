@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🎲 Ivan Marinichev ![](https://komarev.com/ghpvc/?username=IvaMarin)
 
-<!--
-**IvaMarin/IvaMarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍🎓 Master of Game Design - Moscow Institute of Physics and Technology x Scream School
+<br>👨🏻‍🎓 Bachelor of Computer Science - Moscow Aviation Institute
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvaMarin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvaMarin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=IvaMarin&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
