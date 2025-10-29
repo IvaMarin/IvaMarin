@@ -9,6 +9,3 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvaMarin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvaMarin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=IvaMarin&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
